@@ -1,5 +1,6 @@
 ##  :raising_hand_woman: Hi, I’m Yasemin
 -  :woman_technologist: I am 13 years experienced ICT teacher, currently studying  web development and dreaming to become a  skilled front-end developer .
+-  :woman_student: I gratuated with master degree in Computer Education and Educational Technology
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Html, Css, Javascript , react
