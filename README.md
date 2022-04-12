@@ -1,4 +1,4 @@
-##  👋 Hi, I’m Yasemin
+##  :raising_hand_woman: Hi, I’m Yasemin
 -  :woman_technologist: I am 13 years experienced ICT teacher, currently studying  web development and dreaming to become a  skilled front-end developer .
 - 👀 I’m interested in Web Deveelopment
 - 🌱 I’m currently learning Javascript
