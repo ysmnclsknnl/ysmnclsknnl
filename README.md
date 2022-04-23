@@ -5,9 +5,16 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Html, Css, Javascript , react
 
-# Get In touch 
-- 📫  yasemingungorcaliskan@gmail.com
-- 
+<h3 align="left">Get in Touch:</h3>
+<p align="left">
+<a href="mailto:yasemingungorcaliskan@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yasemincaliskan-email " height="50" width="100" /></a>
+ </p> 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yasemincaliskanict2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasemincaliskan-linkedin " height="25" width="30" /></a>
+ </p>
+
+
 
 <!---
 ysmnclsknnl/ysmnclsknnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
