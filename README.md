@@ -1,5 +1,5 @@
 ##  :raising_hand_woman: Hi, I’m Yasemin
-- I am currently studying  web development at Hack Your Future and dreaming to become a skilled front-end developer  . I have a solid previous background in IT. I graduated with master degree in Computer Education and Educational Technology and worked as ICT teacher for 13 years. 
+- I am currently studying  web development at Hack Your Future and dreaming to become a skilled front-end developer  . I have a solid previous background in computer programming. I graduated with master degree in Computer Education and Educational Technology and worked as an ICT teacher for 13 years. 
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Html, Css, Javascript , React
 - 📫   How to reach me : yasemingungorcaliskan@gmail.com
