@@ -1,7 +1,7 @@
 Hi, I’m Yasemin
-- I am currently intern in Ordina. I have been learning AWS, Kotlin and dreaming to become a skilled back-end developer .
-- I have a solid previous background in computer programming. I graduated with master degree in Computer Education and Educational Technology and worked as an ICT teacher for 13 years. 
-- 📫   How to reach me : yasemingungorcaliskan@gmail.com
+- I have been learning AWS, Kotlin and dreaming to become a skilled back-end developer .
+- I have a solid previous background in computer programming. I graduated with a master's degree in Computer Education and Educational Technology and worked as an ICT teacher for 13 years. 
+- 📫   How to reach me: yasemingungorcaliskan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
