@@ -1,5 +1,5 @@
 Hi, I’m Yasemin
-- I have been learning AWS, Kotlin and dreaming to become a skilled back-end developer .
+- I have been learning AWS, Kotlin, Java and dreaming to become a skilled back-end developer .
 - I have a solid previous background in computer programming. I graduated with a master's degree in Computer Education and Educational Technology and worked as an ICT teacher for 13 years. 
 - 📫   How to reach me: yasemingungorcaliskan@gmail.com
 
